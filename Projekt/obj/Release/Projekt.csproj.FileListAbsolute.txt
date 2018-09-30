@@ -1,0 +1,12 @@
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\bin\Release\Projekt.exe.config
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\bin\Release\Projekt.exe
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\bin\Release\Projekt.pdb
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\obj\Release\Projekt.csprojResolveAssemblyReference.cache
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\obj\Release\Projekt.Form1.resources
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\obj\Release\Projekt.Form2.resources
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\obj\Release\Projekt.Form3.resources
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\obj\Release\Projekt.MyContent.resources
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\obj\Release\Projekt.Properties.Resources.resources
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\obj\Release\Projekt.csproj.GenerateResource.Cache
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\obj\Release\Projekt.exe
+E:\0_POLITECHNIKA\Praktyki\Programy\Projekt\Projekt\obj\Release\Projekt.pdb
